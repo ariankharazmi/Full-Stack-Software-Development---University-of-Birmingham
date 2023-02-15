@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+
+<?import javafx.scene.control.Button?>
+
+<FlowPane fx:controller="com.example.flowpanelayout.Controller"
+          orientation="VERTICAL" xmlns:fx="http://javafx.com/fxml">
+
+    <Button text="BUTTON 1"/>
+    <Button text="BUTTON 2"/>
+    <Button text="BUTTON 3"/>
+    <Button text="BUTTON 4"/>
+    <Button text="BUTTON 5"/>
+    <Button text="BUTTON 6"/>
+    <Button text="BUTTON 7"/>
+    <Button text="BUTTON 8"/>
+    <Button text="BUTTON 9"/>
+    <Button text="BUTTON 10"/>
+</FlowPane>
