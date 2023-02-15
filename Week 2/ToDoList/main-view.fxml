@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane fx:controller="dataModel.ToDoItem"
+            xmlns:fx="http://javafx.com/fxml">
+    <left>
+        <ListView fx:id="TDLListView" onMouseClicked="#handleClicklistView"/>
+
+
+        <center>
+
+        </center>
+        </ListView>
+    </left>
+
+</BorderPane>
